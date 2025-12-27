@@ -1,0 +1,9 @@
+{
+  "version": "1.0.1",
+  "notes": "Added Version Check file",
+  "release_date": {
+    "day": 17,
+    "month": 12,
+    "year": 2025
+  }
+}
